@@ -2,11 +2,11 @@ export const METADATA = {
   author: "Shubh Porwal",
   title: "Portfolio | Shubh Porwal",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
+    "Prashant Singh is a passionate  Web Developer , dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+  siteUrl: "https://www.prashantsingh.me/",
   twitterHandle: "@shubhporwal24",
   keywords: [
-    "Shubh Porwal",
+    "Prashant Singh",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
@@ -52,23 +52,23 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: prashantwrk82@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "www.linkedin.com/in/prashant-s-559a622b8",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/PrashantSinghpns",
   },
   {
     name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
+    url: "https://www.instagram.com/prashantsingh2788/",
   },
   {
     name: "twitter",
-    url: "https://x.com/shubhporwal24",
+    url: "https://x.com/PrashantSi71413",
   },
 ];
 
